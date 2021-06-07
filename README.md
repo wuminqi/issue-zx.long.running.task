@@ -1,5 +1,7 @@
 # README
 
+> Related issue: [google/zx:140](https://github.com/google/zx/issues/140)
+
 ### Prerequisite
 
 - Have `zx` installed globally via `npm i -g zx`
